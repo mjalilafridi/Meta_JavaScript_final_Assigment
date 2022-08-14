@@ -1,2 +1,2 @@
-# Mete_JavaScript_final_Assigment
+# Mete_JavaScript_Course_final_Assigment
  
